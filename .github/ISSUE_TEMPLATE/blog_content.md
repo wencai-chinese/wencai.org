@@ -1,7 +1,7 @@
 ---
 name: " Blog Content Review "
 about: Review wencai.org blogposts and report content related issues
-title: 'Review of '
+title: 'Review of: '
 labels: ''
 assignees: wencai-chinese
 

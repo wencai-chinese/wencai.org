@@ -7,7 +7,7 @@ assignees: wencai-chinese
 
 ---
 
-In [this article](PASTE-link-to-article-here):
+In [this article](PASTE-link-to-article-section-here):
 
 > Copy and paste the targeted blog segment over here.
 >

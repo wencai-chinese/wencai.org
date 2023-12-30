@@ -1,4 +1,13 @@
-# Blog Content Review and Issues
+---
+name: " Blog Content Review "
+about: Review wencai.org blogposts and report content related issues
+title: Review of
+labels: ''
+assignees: wencai-chinese
+
+---
+
+In [this article](link-to-article):
 
 > Copy and paste the targeted blog segment over here.
 >
